@@ -4,3 +4,6 @@
 [submodule "gluon/packages/yatl"]
 	path = gluon/packages/yatl
 	url = https://github.com/web2py/yatl
+[submodule "applications/Kistenverwaltung"]
+	path = applications/Kistenverwaltung
+	url = git@github.com:EvaKrmr/Kistenverwaltung.git

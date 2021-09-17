@@ -64,3 +64,10 @@ site-packages/
 logs/
 __pycache__/
 build/*
+
+
+
+
+#our ignores:
+!applications/Kistenverwaltung
+!applications/Kistenverwaltung/*
